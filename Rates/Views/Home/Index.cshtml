@@ -1,0 +1,16 @@
+﻿@model RateViewModel
+
+@{
+    ViewData["Title"] = "Rate Calc";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Rate Calc</h1>
+    <div>
+        <form method="post">
+            <label asp-for="dt">calculate rates for (date)</label>
+            <input type="text" value="@Model.dt.ToShortDateString()" />
+            <button type="submit">calc</button>
+        </form>
+    </div>
+</div>
