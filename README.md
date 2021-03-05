@@ -30,4 +30,5 @@ ASP.NET web application to display GSA per diem rates for any CONUS Zip code
 |1|2,3.0|From the console, enter..., result should be 42...|not tested| |
 |2|5|Auth.user selects open from menu item and is presented file dialog|not tested| |
 |3|4|user enters incorrect password and "forgot password" link appears on page"|passed|26Feb2021|
+|4|6|(unit-tested)enter 42 as input to the calculate dialog, result should be 7|passed|3Mar2021|  
 
