@@ -13,8 +13,8 @@ ASP.NET web application to display GSA per diem rates for any CONUS Zip code
 [Requirements Specification](https://github.com/uid100/RateCalculator/blob/main/Requirements_Spec.md)
 
 
-|ReqID|Requirement|
-|---|---|
+|ReqID|Requirement|test method|
+|---|---|--|
 |1. |the system shall ...|inspection|
 |2. |the system shall ...|test|
 |3. |the system shall ...|test|
