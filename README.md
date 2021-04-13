@@ -1,3 +1,5 @@
+![icon](https://raw.githubusercontent.com/uid100/RateCalculator/main/images/1024px-United-states_flag_icon_round.png)
+
 # RateCalculator
 ASP.NET web application to display GSA per diem rates for any CONUS Zip code
 
