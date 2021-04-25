@@ -33,3 +33,7 @@ ASP.NET web application to display GSA per diem rates for any CONUS Zip code
 |3|4|user enters incorrect password and "forgot password" link appears on page"|passed|26Feb2021|
 |4|6|(unit-tested)enter 42 as input to the calculate dialog, result should be 7|passed|3Mar2021|  
 
+
+## ziptastic API for zipcode lookup:
+
+```https://zip.getziptastic.com/v2/us/12345```
